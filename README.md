@@ -11,7 +11,7 @@
 
 ## Project
 
-As a student of the Data Science Program at LightHouse Labs, this project is the culmination of the Research and Reflect discipline. I chose the Canadian Premier League for two reasons: my passion for soccer and its emergence as a fresh league in Canada. The CPL began in 2019, and I live in Victoria, BC, where I proudly support [Pacific FC](https://pacificfc.canpl.ca/). Joining us ([TOP](https://www.facebook.com/TORCIDA.ORGANIZADA.PACIFIC/)) at the tailgate before the games is a fantastic experience.
+As a student of the [Data Science Program at LightHouse Labs](https://www.lighthouselabs.ca/en/data-science), this project is the culmination of the Research and Reflect discipline. I chose the [Canadian Premier League](https://canpl.ca/) for two reasons: my passion for soccer and its emergence as a fresh league in Canada. The CPL began in 2019, and I live in Victoria, BC, where I proudly support [Pacific FC](https://pacificfc.canpl.ca/). Joining us ([TOP](https://www.facebook.com/TORCIDA.ORGANIZADA.PACIFIC/)) at the tailgate before the games is a fantastic experience.
 
 The goal of this project is to create a prediction for the 2023 season based on historical data. We will then compare the machine learning predictions with the actual results, shedding light on the accuracy of our model. You can find the published results [CPL: Machine Learning vs Real Result](https://medium.com/@leo.fonseca.canada/cpl-machine-learning-vs-real-result-8738a6f67115).
 
